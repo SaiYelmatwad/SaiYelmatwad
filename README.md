@@ -13,3 +13,4 @@ Outside of work, I'm interested in following the developments of science.
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/saiyelmatwad/)
 
  ![](https://komarev.com/ghpvc/?username=saiyelmatwad&label=Profile%20views&color=000000&style=flat)
+ ![](https://img.shields.io/github/followers/SaiYelmatwad?style=for-the-badge&color=000000)
