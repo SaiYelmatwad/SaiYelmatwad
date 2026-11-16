@@ -11,6 +11,7 @@ Outside of work, I'm interested in following the developments of science.
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saiyelmatwad_34031)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/saiyelmatwad/)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com//)
 
  ![](https://komarev.com/ghpvc/?username=saiyelmatwad&label=Profile%20views&color=000000&style=flat)
  ![](https://img.shields.io/github/followers/SaiYelmatwad?style=for-the-badge&color=000000)
