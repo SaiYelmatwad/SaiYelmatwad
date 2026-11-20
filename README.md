@@ -1,17 +1,31 @@
  ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [ **Sai** ], a software engineer
+I'm Sai Yelmatwad, a software engineer driven by curiosity and continuous learning.
+ 
+I focus on building scalable Java & Spring Boot backend systems, distributed architectures, and AI-driven tools.
 
-I currently work as a software engineer at
+I enjoy exploring new technologies, understanding systems deeply, and building solutions that make an impact.
 
-I'm fascinated by large-scale, high-impact products and have worked on
+I'm fascinated by large-scale, high-impact products.
 
 Outside of work, I'm interested in following the developments of science.
 
 #### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saiyelmatwad_34031)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/saiyelmatwad/)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com//)
+ [![Medium](https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white)]( (https://medium.com/@saiyelmatwad_34031)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)]( ](https://www.linkedin.com/in/saiyelmatwad/)) [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=C084FC)](APKA_PORTFOLIO_LINK_YAHAN_DALO) [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:apka.email@gmail.com)
 
- ![](https://komarev.com/ghpvc/?username=saiyelmatwad&label=Profile%20views&color=000000&style=flat)
- ![](https://img.shields.io/github/followers/SaiYelmatwad?style=for-the-badge&color=000000)
+## Open source
+
+## Selected projects
+  
+  
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiYelmatwad&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiYelmatwad&theme=github" alt="Sai's GitHub activity statistics" width="340" height="200">
+  </picture>
+</p>
+<p align="center">
+  Open to Opportunities & Hackathons · India
+</p> 
