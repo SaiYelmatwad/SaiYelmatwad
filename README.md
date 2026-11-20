@@ -11,7 +11,7 @@ I'm fascinated by large-scale, high-impact products.
 Outside of work, I'm interested in following the developments of science.
 
 #### Let's connect!
- [![Medium](https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white)]( (https://medium.com/@saiyelmatwad_34031)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)]( ](https://www.linkedin.com/in/saiyelmatwad/)) [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=C084FC)](APKA_PORTFOLIO_LINK_YAHAN_DALO) [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:apka.email@gmail.com)
+  [![Medium](https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saiyelmatwad_34031)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/saiyelmatwad/) [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=C084FC)](_PORTFOLIO_LINK_) [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sai.@gmail.com)
 
 ## Open source
 
