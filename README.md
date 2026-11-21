@@ -1,6 +1,6 @@
  ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Sai Yelmatwad, a software engineer driven by curiosity and continuous learning.
+I'm Sai,a software engineer driven by curiosity and continuous learning.
  
 I focus on building scalable Java & Spring Boot backend systems, distributed architectures, and AI-driven tools.
 
