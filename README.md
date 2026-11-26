@@ -11,7 +11,7 @@ I'm fascinated by large-scale, high-impact products.
 Outside of work, I'm interested in following the developments of science, exploring aviation, and expressing my creativity through **[art](YOUR_PORTFOLIO_LINK)**.
 
 #### Let's connect!
-   [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saiyelmatwad_34031)
+   [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saiiii_24)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/saiyelmatwad/)  [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=C084FC)](_PORTFOLIO_LINK_)
 ## Open source
 
